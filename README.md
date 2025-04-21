@@ -74,9 +74,9 @@ ETL Pipelines • S&OP • GTM Strategy • Partner Evaluation • Market Resear
 - **M.S. Technology Management**, University of Illinois Urbana-Champaign  
 - **B.Tech Mechanical Engineering**, Maharashtra Institute of Technology  
 - 📜 **Certifications**  
-  - DataCamp Associate Data Engineer  
-  - AWS Certified Cloud Practitioner  
+  - DataCamp Associate Data Engineer 
   - Lean Six Sigma Green Belt
+  - AWS Certified Associate Data Engineer (In-progess)
 
 ---
 
