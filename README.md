@@ -64,8 +64,7 @@ I’m an analytics professional who builds systems that drive decisions. With ex
 `Salesforce` `NetSuite` `SAP` `Assent Compliance Platform` `Jira` `Confluence` `Asana` `MS Project` `Slack`
 
 ### 🧠 Concepts & Methodologies  
-Forecasting • Time Series • Regression • EDA • Data Cleaning • KPI Design • Cohort Analysis •  
-ETL Pipelines • S&OP • GTM Strategy • Partner Evaluation • Market Research • Lean Six Sigma (Green Belt)
+Forecasting • Time Series • Regression • EDA • Data Cleaning • KPI Design • Cohort Analysis • ETL Pipelines • S&OP • GTM Strategy • Partner Evaluation • Market Research • Lean Six Sigma (Green Belt)
 • Supply Chain Analytics • Sales Ops
 
 ---
