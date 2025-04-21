@@ -39,7 +39,7 @@ I’m an analytics professional who builds systems that drive decisions. With ex
 
 - 🔋 **Charger Health Dashboard** – Monitored 60K+ EV chargers via Grafana; boosted uptime by 10%.  
 - 📥 **End-User Self-Service Portal** – Titan Web + Salesforce form automation; cut onboarding time by 60%.  
-- 🧾 **Compliance Automation Tool** – Tracked REACH/RoHS/PFAS data via Assent, JotForm, and Power BI.  
+- 🧾 **Compliance Monitoring** – Tracked REACH/RoHS/PFAS data via Assent platform ensuring sustainable supply chain.  
 - ⚙️ **Part Number Generator** – Saved 2.5 hours/day with Power Automate + MS Forms system.  
 - 🚚 **Inventory & Demand Planner** – Improved forecast accuracy by 10% with Python + Excel-based models.  
 - 🌍 **ERP/CRM Data Migration** – Led standardization of global Salesforce & NetSuite master data.
@@ -49,7 +49,7 @@ I’m an analytics professional who builds systems that drive decisions. With ex
 ## 🧰 Skills & Tech Stack
 
 ### 🔎 Data Analytics & Visualization  
-`Power BI` `Tableau` `Grafana` `DAX` `Power Query` `Looker` `Excel (Advanced/VBA)`
+`Power BI` `Tableau` `Grafana` `DAX` `Power Query` `Looker` `DOMO` `Excel (Advanced/VBA)`
 
 ### 🧪 Data Engineering & Querying  
 `SQL` `Python (Pandas, NumPy)` `Amazon Redshift` `Google BigQuery` `dbt` `Snowflake` `MongoDB`
