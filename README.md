@@ -88,4 +88,4 @@ ETL Pipelines • S&OP • GTM Strategy • Partner Evaluation • Market Resear
 
 ---
 
-> Let's transform operations with data—not just by measuring performance, but by engineering better outcomes.
+> Let's transform business operations with data—not just by measuring performance, but by engineering better outcomes.
